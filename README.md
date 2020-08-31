@@ -1,2 +1,2 @@
 portfolio page.
-used html css and basic javascript
+used html css and basic javascript.
